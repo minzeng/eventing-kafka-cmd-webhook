@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing-kafka/cmd/webhook@sha256:4fcf2e5917a90e5b09aac30c9bf1b805e114774215c3ffa637678dc003febcb8
+FROM gcr.io/knative-releases/knative.dev/eventing-kafka/cmd/webhook@sha256:0409119ff4de0073dedc6716a077acee40aaaf820c0a6d48656105efd1c56502
